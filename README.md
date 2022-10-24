@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RichardPrad
+- 👀 I’m interested in Learn something new
+- 🌱 I’m currently learning java and python
